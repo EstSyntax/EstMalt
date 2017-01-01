@@ -1,11 +1,11 @@
 # EstMalt
-Estonian UD model for MaltParser.
+Estonian DT and UD models for MaltParser.
 
-Documentation for annotation  is available at EstUD repository.
+Documentation for UD annotation  is available at EstUD repository.
 
 ----------------------------
 
-MaltParseri mudel, mis on treenitud EstUD puudepangal. Sisendi formaadi ja märgendite kirjeldus on saadaval EstUD repositooriumis.
+MaltParseri mudelid, mis on treenitud sõltuvuspuude ja EstUD puudepankadel. UD sisendi formaadi ja märgendite kirjeldus on saadaval EstUD repositooriumis.
 
 ** MaltParser UD-puudepangal v1.4
 
