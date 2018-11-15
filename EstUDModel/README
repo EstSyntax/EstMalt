@@ -1,0 +1,15 @@
+Failid *.mco on maltparseri mudelid, estudmodel4 on udpipe mudel, treenitud EstUD 2.3 korpusel.
+Vt https://github.com/ufal/udpipe
+
+Käsurida echo "Tekst"| ./udpipe --tokenize --tag --parse estudmodel4
+
+Automaatsel morfil:  UAS 77.43%, LAS 73.24%
+
+Kuldsel morfil: 
+
+accuracy / Metric:LA   accuracy / Metric:LAS   accuracy / Metric:UAS   Token
+--------------------------------------------------------------------------------
+0.906                  0.81                    0.838                   Row mean
+48491                  48491                   48491                   Row count
+--------------------------------------------------------------------------------
+
